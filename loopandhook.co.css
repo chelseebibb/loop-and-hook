@@ -1,0 +1,28 @@
+body {
+    background-color: peachpuff;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-family: "Montserrat", "Avenir";
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    /* background-color: palevioletred; */
+    opacity: 100%;
+    font-size: 400%;
+    margin-bottom: -5%;
+    
+}
+
+#announcement {
+    text-align: center;
+    margin-top: 10%;
+    background-color: palevioletred;
+    color: white;
+    opacity: 50%;
+    font-size: 250%;
+    padding-top: 75px;
+    padding-bottom: 100%;
+}
