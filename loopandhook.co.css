@@ -11,20 +11,13 @@ h1 {
     color: white;
     opacity: 100%;
     font-size: 400%;
-    /* margin-bottom: -5%; */
-    
 }
 
 #announcement {
     text-align: center;
-    /* margin-top: 10%;
-    margin-bottom: 0%; */
     background-color: palevioletred;
     color: white;
-    /* opacity: 50%; */
     font-size: 250%;
-    /* padding-top: 75px;
-    padding-bottom: 100%; */
 }
 
 #inventory {
@@ -61,7 +54,6 @@ h1 {
 .selected {
     color: white;
     background-color: peachpuff;
-    /* text-transform: uppercase; */
 }
 
 button {
