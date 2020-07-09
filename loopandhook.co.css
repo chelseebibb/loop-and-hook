@@ -1,6 +1,5 @@
 body {
-    background-color: peachpuff;
-    margin-top: 5%;
+    background-color: lightblue;
     margin-left: 0%;
     margin-right: 0%;
     font-family: "Montserrat", "Avenir";
@@ -15,7 +14,7 @@ h1 {
 
 #announcement {
     text-align: center;
-    background-color: palevioletred;
+    background-color: #cdb2fa;
     color: white;
     font-size: 250%;
 }
@@ -27,7 +26,7 @@ h1 {
 
 .item {
     width: 30%;
-    color: palevioletred;
+    color: lightblue;
     text-align: center;
     background: white;
     padding-bottom: 30%;
@@ -43,7 +42,7 @@ h1 {
     background-color: white;
     height: 30px;
     text-align: center;
-    color: peachpuff;
+    color: lightblue;
 }
 
 #message {
@@ -53,7 +52,7 @@ h1 {
 
 .selected {
     color: white;
-    background-color: peachpuff;
+    background-color: lightblue;
 }
 
 button {
@@ -62,7 +61,7 @@ button {
     text-transform: lowercase;
     height: 100%;
     font-weight: 600;
-    color: peachpuff;
+    color: lightblue;
     letter-spacing: 1px;
     font-size: inherit;
     transition: all 0.3s;
@@ -73,5 +72,5 @@ button {
 
 button:hover {
     color: white;
-    background-color: palevioletred;
+    background-color: #cdb2fa;;
 }
